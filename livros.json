@@ -1,1 +1,14 @@
-[{"id":"1","nome":"Livro irado"},{"id":"2","nome":"Livro muito legal"},{"id":"3","nome":"Livro muito chato 2"},{"id":"4","nome":"Bíblia Sagrada"}]
+[
+    {
+        "nome": "JavaScript linguagem web",
+        "id": "1"
+    },
+    {
+        "id": "3",
+        "nome": "Cangaceiro JavaScript"
+    },
+    {
+        "id": "4",
+        "nome": "Livro da hora"
+    }
+]
